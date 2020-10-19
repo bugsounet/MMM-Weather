@@ -13,6 +13,8 @@
 
 Read the doc in [wiki](https://github.com/bugsounet/MMM-Weather/wiki)
 
-## Credit:
-   * @bugsounet
- * Licence: MIT
+## Credits
+  * Author:
+    * @bugsounet
+  * License: MIT
+
