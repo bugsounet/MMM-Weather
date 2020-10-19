@@ -1,0 +1,27 @@
+{
+  "name": "MMM-Weather",
+  "version": "1.0.0",
+  "description": "Magic Mirror module that gets weather forecast data from OpenWeatherMap",
+  "main": "MMM-Weather.js",
+  "scripts": {
+    "preinstall": "installer/preinstall.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugsounet/MMM-Weather"
+  },
+  "keywords": [
+    "magicmirror",
+    "weather",
+    "openweather"
+  ],
+  "author": [
+    "Jeff Clarke",
+    "bugsounet"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugsounet/MMM-Weather/issues"
+  },
+  "homepage": "https://github.com/bugsounet/MMM-Weather#readme"
+}
